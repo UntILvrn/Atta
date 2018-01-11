@@ -1,0 +1,31 @@
+C:\Users\LK\Desktop\Uni\Задание 10\Attestation_3\Attestation_3\bin\Debug\Attestation_3.exe.config
+C:\Users\LK\Desktop\Uni\Задание 10\Attestation_3\Attestation_3\bin\Debug\Attestation_3.exe
+C:\Users\LK\Desktop\Uni\Задание 10\Attestation_3\Attestation_3\bin\Debug\Attestation_3.pdb
+C:\Users\LK\Desktop\Uni\Задание 10\Attestation_3\Attestation_3\bin\Debug\ClassLibrary1.dll
+C:\Users\LK\Desktop\Uni\Задание 10\Attestation_3\Attestation_3\bin\Debug\ClassLibrary1.pdb
+C:\Users\LK\Desktop\Uni\Задание 10\Attestation_3\Attestation_3\obj\Debug\10.1.3.csprojResolveAssemblyReference.cache
+C:\Users\LK\Desktop\Uni\Задание 10\Attestation_3\Attestation_3\obj\Debug\Attestation_3.Form1.resources
+C:\Users\LK\Desktop\Uni\Задание 10\Attestation_3\Attestation_3\obj\Debug\Attestation_3.Properties.Resources.resources
+C:\Users\LK\Desktop\Uni\Задание 10\Attestation_3\Attestation_3\obj\Debug\10.1.3.csproj.GenerateResource.Cache
+C:\Users\LK\Desktop\Uni\Задание 10\Attestation_3\Attestation_3\obj\Debug\10.1.3.csproj.CoreCompileInputs.cache
+C:\Users\LK\Desktop\Uni\Задание 10\Attestation_3\Attestation_3\obj\Debug\Attestation_3.exe
+C:\Users\LK\Desktop\Uni\Задание 10\Attestation_3\Attestation_3\obj\Debug\Attestation_3.pdb
+C:\Users\LK\Desktop\Proga\Задание 10\Attestation_3\Attestation_3\obj\Debug\10.1.3.csprojResolveAssemblyReference.cache
+C:\Users\LK\Desktop\Proga\Задание 10\Attestation_3\Attestation_3\obj\Debug\Attestation_3.Form1.resources
+C:\Users\LK\Desktop\Proga\Задание 10\Attestation_3\Attestation_3\obj\Debug\Attestation_3.Properties.Resources.resources
+C:\Users\LK\Desktop\Proga\Задание 10\Attestation_3\Attestation_3\obj\Debug\10.1.3.csproj.GenerateResource.Cache
+C:\Users\LK\Desktop\Proga\Задание 10\Attestation_3\Attestation_3\obj\Debug\10.1.3.csproj.CoreCompileInputs.cache
+C:\Users\LK\Desktop\Proga\Задание 10\Attestation_3\Attestation_3\obj\Debug\Attestation_3.exe
+C:\Users\LK\Desktop\Proga\Задание 10\Attestation_3\Attestation_3\obj\Debug\Attestation_3.pdb
+C:\Users\LK\Desktop\Att2 - копия\Att2\Задание 10\Attestation_3\Attestation_3\bin\Debug\Attestation_3.exe.config
+C:\Users\LK\Desktop\Att2 - копия\Att2\Задание 10\Attestation_3\Attestation_3\bin\Debug\Attestation_3.exe
+C:\Users\LK\Desktop\Att2 - копия\Att2\Задание 10\Attestation_3\Attestation_3\bin\Debug\Attestation_3.pdb
+C:\Users\LK\Desktop\Att2 - копия\Att2\Задание 10\Attestation_3\Attestation_3\bin\Debug\ClassLibrary1.dll
+C:\Users\LK\Desktop\Att2 - копия\Att2\Задание 10\Attestation_3\Attestation_3\bin\Debug\ClassLibrary1.pdb
+C:\Users\LK\Desktop\Att2 - копия\Att2\Задание 10\Attestation_3\Attestation_3\obj\Debug\10.1.3.csprojResolveAssemblyReference.cache
+C:\Users\LK\Desktop\Att2 - копия\Att2\Задание 10\Attestation_3\Attestation_3\obj\Debug\Attestation_3.Form1.resources
+C:\Users\LK\Desktop\Att2 - копия\Att2\Задание 10\Attestation_3\Attestation_3\obj\Debug\Attestation_3.Properties.Resources.resources
+C:\Users\LK\Desktop\Att2 - копия\Att2\Задание 10\Attestation_3\Attestation_3\obj\Debug\10.1.3.csproj.GenerateResource.Cache
+C:\Users\LK\Desktop\Att2 - копия\Att2\Задание 10\Attestation_3\Attestation_3\obj\Debug\10.1.3.csproj.CoreCompileInputs.cache
+C:\Users\LK\Desktop\Att2 - копия\Att2\Задание 10\Attestation_3\Attestation_3\obj\Debug\Attestation_3.exe
+C:\Users\LK\Desktop\Att2 - копия\Att2\Задание 10\Attestation_3\Attestation_3\obj\Debug\Attestation_3.pdb
