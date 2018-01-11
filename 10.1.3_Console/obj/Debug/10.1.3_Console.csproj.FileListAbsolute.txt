@@ -1,0 +1,11 @@
+C:\Users\LK\Desktop\Att2 - копия\Att2\10.1.3_Console\bin\Debug\10.1.3_Console.exe.config
+C:\Users\LK\Desktop\Att2 - копия\Att2\10.1.3_Console\bin\Debug\10.1.3_Console.exe
+C:\Users\LK\Desktop\Att2 - копия\Att2\10.1.3_Console\bin\Debug\10.1.3_Console.pdb
+C:\Users\LK\Desktop\Att2 - копия\Att2\10.1.3_Console\bin\Debug\ClassForConsoleAtt2.dll
+C:\Users\LK\Desktop\Att2 - копия\Att2\10.1.3_Console\bin\Debug\ClassLibrary1.dll
+C:\Users\LK\Desktop\Att2 - копия\Att2\10.1.3_Console\bin\Debug\ClassLibrary1.pdb
+C:\Users\LK\Desktop\Att2 - копия\Att2\10.1.3_Console\bin\Debug\ClassForConsoleAtt2.pdb
+C:\Users\LK\Desktop\Att2 - копия\Att2\10.1.3_Console\obj\Debug\10.1.3_Console.csprojResolveAssemblyReference.cache
+C:\Users\LK\Desktop\Att2 - копия\Att2\10.1.3_Console\obj\Debug\10.1.3_Console.csproj.CoreCompileInputs.cache
+C:\Users\LK\Desktop\Att2 - копия\Att2\10.1.3_Console\obj\Debug\10.1.3_Console.exe
+C:\Users\LK\Desktop\Att2 - копия\Att2\10.1.3_Console\obj\Debug\10.1.3_Console.pdb
