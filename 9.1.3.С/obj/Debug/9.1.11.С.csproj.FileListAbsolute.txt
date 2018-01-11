@@ -1,0 +1,34 @@
+C:\Users\User\Desktop\Just Do It\BigPro\C#\Att2\9.1.11.С\bin\Debug\9.1.11.С.exe.config
+C:\Users\User\Desktop\Just Do It\BigPro\C#\Att2\9.1.11.С\bin\Debug\9.1.11.С.exe
+C:\Users\User\Desktop\Just Do It\BigPro\C#\Att2\9.1.11.С\bin\Debug\9.1.11.С.pdb
+C:\Users\User\Desktop\Just Do It\BigPro\C#\Att2\9.1.11.С\bin\Debug\ClassForConsoleAtt2.dll
+C:\Users\User\Desktop\Just Do It\BigPro\C#\Att2\9.1.11.С\bin\Debug\ClassForFormForAtt2.dll
+C:\Users\User\Desktop\Just Do It\BigPro\C#\Att2\9.1.11.С\bin\Debug\ClassLibrary1.dll
+C:\Users\User\Desktop\Just Do It\BigPro\C#\Att2\9.1.11.С\bin\Debug\ClassForConsoleAtt2.pdb
+C:\Users\User\Desktop\Just Do It\BigPro\C#\Att2\9.1.11.С\bin\Debug\ClassForFormForAtt2.pdb
+C:\Users\User\Desktop\Just Do It\BigPro\C#\Att2\9.1.11.С\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\Desktop\Just Do It\BigPro\C#\Att2\9.1.11.С\obj\Debug\9.1.11.С.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Just Do It\BigPro\C#\Att2\9.1.11.С\obj\Debug\9.1.11.С.exe
+C:\Users\User\Desktop\Just Do It\BigPro\C#\Att2\9.1.11.С\obj\Debug\9.1.11.С.pdb
+C:\Users\LK\Desktop\Att2\Att2\9.1.11.С\bin\Debug\9.1.11.С.exe.config
+C:\Users\LK\Desktop\Att2\Att2\9.1.11.С\bin\Debug\9.1.11.С.exe
+C:\Users\LK\Desktop\Att2\Att2\9.1.11.С\bin\Debug\9.1.11.С.pdb
+C:\Users\LK\Desktop\Att2\Att2\9.1.11.С\bin\Debug\ClassForConsoleAtt2.dll
+C:\Users\LK\Desktop\Att2\Att2\9.1.11.С\bin\Debug\ClassLibrary1.dll
+C:\Users\LK\Desktop\Att2\Att2\9.1.11.С\bin\Debug\ClassForConsoleAtt2.pdb
+C:\Users\LK\Desktop\Att2\Att2\9.1.11.С\bin\Debug\ClassLibrary1.pdb
+C:\Users\LK\Desktop\Att2\Att2\9.1.11.С\obj\Debug\9.1.11.С.csprojResolveAssemblyReference.cache
+C:\Users\LK\Desktop\Att2\Att2\9.1.11.С\obj\Debug\9.1.11.С.csproj.CoreCompileInputs.cache
+C:\Users\LK\Desktop\Att2\Att2\9.1.11.С\obj\Debug\9.1.11.С.exe
+C:\Users\LK\Desktop\Att2\Att2\9.1.11.С\obj\Debug\9.1.11.С.pdb
+C:\Users\LK\Desktop\Att2 - копия\Att2\9.1.11.С\bin\Debug\9.1.11.С.exe.config
+C:\Users\LK\Desktop\Att2 - копия\Att2\9.1.11.С\bin\Debug\9.1.11.С.exe
+C:\Users\LK\Desktop\Att2 - копия\Att2\9.1.11.С\bin\Debug\9.1.11.С.pdb
+C:\Users\LK\Desktop\Att2 - копия\Att2\9.1.11.С\bin\Debug\ClassForConsoleAtt2.dll
+C:\Users\LK\Desktop\Att2 - копия\Att2\9.1.11.С\bin\Debug\ClassLibrary1.dll
+C:\Users\LK\Desktop\Att2 - копия\Att2\9.1.11.С\bin\Debug\ClassForConsoleAtt2.pdb
+C:\Users\LK\Desktop\Att2 - копия\Att2\9.1.11.С\bin\Debug\ClassLibrary1.pdb
+C:\Users\LK\Desktop\Att2 - копия\Att2\9.1.11.С\obj\Debug\9.1.11.С.csprojResolveAssemblyReference.cache
+C:\Users\LK\Desktop\Att2 - копия\Att2\9.1.11.С\obj\Debug\9.1.11.С.csproj.CoreCompileInputs.cache
+C:\Users\LK\Desktop\Att2 - копия\Att2\9.1.11.С\obj\Debug\9.1.11.С.exe
+C:\Users\LK\Desktop\Att2 - копия\Att2\9.1.11.С\obj\Debug\9.1.11.С.pdb
